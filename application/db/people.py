@@ -1,2 +1,2 @@
 def get_employees():
-    print("Функция get_employees вызвана")
+    print("Список сотрудников получен")
